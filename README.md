@@ -20,6 +20,8 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
   ![Nest](https://img.shields.io/badge/-Nest-333333?style=flat&logo=Nest)
+  ![Nest](https://img.shields.io/badge/-Nest-333333?style=flat&logo=Laravel)
+
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
